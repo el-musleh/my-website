@@ -32,3 +32,9 @@ img {
 	height: 500px;
 	width: 500px;
 }
+
+.fa-blogger-b {
+	content: url('../img/blog.png');
+	height: 12px;
+	width: 11px;
+}
